@@ -1,3 +1,17 @@
-# Arduino-NiMh-Battery-Controlled-Charger
-Microprocessor and Computer Architecture Lab(MPCA) project. NiMh controlled battery charger with text display displaying battery statistics. Battery charger shuts down if charging time is up or current and voltages exceed safety values. Project was completed during our fourth semester(2020-2021).Tinkercad link-> https://www.tinkercad.com/things/imSwDhu70jK
-(MPCA PROJECT-NiMh controlled battery charger with text display)
+# Arduino NiMh Controlled Battery Charger
+
+A controlled NiMh battery charger built for the Microprocessor and Computer Architecture (MPCA) lab in my fourth semester (2020-2021). It displays live battery statistics and shuts down automatically for safety.
+
+## Features
+
+- Displays battery statistics on a text display
+- Automatic shutdown when charging time is up
+- Safety cutoff if current or voltage exceeds safe limits
+
+## Tech
+
+- Arduino (C/C++), simulated in Tinkercad
+
+Tinkercad: https://www.tinkercad.com/things/imSwDhu70jK
+
+The sketch is `mpca_project_nimh_controlled_battery_charger_with_text_display1.ino`.
